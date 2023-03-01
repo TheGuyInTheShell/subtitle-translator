@@ -1,0 +1,19 @@
+{
+  "name": "subtitle-translator",
+  "version": "1.0.0",
+  "description": "subtitles translator api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "subtitles",
+    "sub",
+    "translator"
+  ],
+  "author": "Elieser Alvarez",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1"
+  }
+}

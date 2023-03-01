@@ -1,0 +1,91 @@
+1
+00:00:00,120 --> 00:00:01,110
+Ciberdelincuencia.
+
+2
+00:00:01,770 --> 00:00:07,890
+En pocas palabras, el delito cibernético incluye cualquier actividad ilegal cometida utilizando un tipo de dispositivo informático
+
+3
+00:00:07,890 --> 00:00:10,470
+o redes informáticas como Internet.
+
+4
+00:00:10,620 --> 00:00:18,510
+El DOJ del Departamento de Justicia de los Estados Unidos define el delito cibernético como cualquier delito cometido contra o con
+
+5
+00:00:18,510 --> 00:00:21,240
+el uso de una computadora o red informática.
+
+6
+00:00:21,690 --> 00:00:25,200
+La principal motivación detrás del delito cibernético es la ganancia financiera.
+
+7
+00:00:25,200 --> 00:00:29,340
+Ejemplo Difundir malware para robar códigos de acceso a cuentas bancarias.
+
+8
+00:00:29,760 --> 00:00:36,030
+Sin embargo, una buena parte de los delitos cibernéticos tiene diferentes motivaciones como la interrupción del servicio, por ejemplo,
+
+9
+00:00:36,060 --> 00:00:43,500
+Ataques DDoS para detener los servicios ofrecidos por la organización objetivo que roban datos confidenciales, ejemplo
+
+10
+00:00:43,500 --> 00:00:49,620
+datos de consumidores, información médica, intercambio de materiales protegidos por derechos de autor de manera ilegal.
+
+11
+00:00:49,620 --> 00:00:51,130
+y Ciberespionaje.
+
+12
+00:00:51,150 --> 00:00:53,570
+Comercio corporativo de secretos militares.
+
+13
+00:00:53,580 --> 00:00:54,930
+¿Qué es el ciberdelito?
+
+14
+00:00:55,560 --> 00:01:02,370
+El ciberdelito se define como una acción ilícita contra cualquier persona que utilice una computadora, sus sistemas y su
+
+15
+00:01:02,370 --> 00:01:04,710
+aplicaciones en línea o fuera de línea.
+
+16
+00:01:05,010 --> 00:01:09,810
+Ocurre cuando la tecnología de la información se utiliza para cometer o encubrir un delito.
+
+17
+00:01:10,170 --> 00:01:15,840
+Sin embargo, el acto solo se considera ciberdelito si es intencional y no accidental.
+
+18
+00:01:16,530 --> 00:01:18,150
+Ejemplo de ciberdelincuencia.
+
+19
+00:01:18,330 --> 00:01:21,450
+Estos son algunos de los delitos cibernéticos más comunes.
+
+20
+00:01:21,450 --> 00:01:29,070
+El fraude se hizo mediante la manipulación de la red informática, el acceso no autorizado o la modificación de datos o aplicaciones.
+
+21
+00:01:29,430 --> 00:01:36,210
+Robo de propiedad intelectual que incluye piratería de software, espionaje industrial y acceso o robo
+
+22
+00:01:36,210 --> 00:01:37,640
+de material informático.
+
+23
+00:01:37,650 --> 00:01:41,010
+Escribir o difundir virus informáticos o malware.
